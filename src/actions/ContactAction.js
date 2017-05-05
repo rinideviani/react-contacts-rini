@@ -14,7 +14,7 @@ import {
 } from './types';
 
 
-const BASE_URL = 'http://localhost:3000/'
+const BASE_URL = 'http://test.jenius.tech/'
 
 const urlRequest = (endpoint) => BASE_URL + endpoint
 
